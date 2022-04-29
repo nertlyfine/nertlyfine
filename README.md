@@ -2,7 +2,7 @@
 <img src=''>
 
 # My projects 🔮
-* [Desires](https://discord.com/api/oauth2/authorize?client_id=966771583676977203&permissions=8&scope=bot%20applications.commands) — feature-packed, fast-growing discord bot that exploded in 2021 and won the hearts of many users of the Discord platform.
+* [Desires](https://desiresbot.online/) — feature-packed, fast-growing discord bot that exploded in 2021 and won the hearts of many users of the Discord platform.
 
 # Languages and Tools
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
