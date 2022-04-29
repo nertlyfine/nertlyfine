@@ -1,5 +1,5 @@
 # Welcome to my profile 👋
-<img src='https://cdn.discordapp.com/attachments/951697286470201384/961665517628842064/-1rgewegrgre.png'>
+<img src=''>
 
 # My projects 🔮
 * [Desires](https://discord.com/api/oauth2/authorize?client_id=966771583676977203&permissions=8&scope=bot%20applications.commands) — feature-packed, fast-growing discord bot that exploded in 2021 and won the hearts of many users of the Discord platform.
