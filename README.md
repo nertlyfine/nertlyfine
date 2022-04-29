@@ -1,5 +1,5 @@
 # Welcome to my profile 👋
-<img src=''>
+<img src='https://i.ibb.co/2S3tSfc/github-Banner.png'>
 
 # My projects 🔮
 * [Desires](https://desiresbot.online/) — feature-packed, fast-growing discord bot that exploded in 2021 and won the hearts of many users of the Discord platform.
