@@ -1,9 +1,6 @@
 # Welcome to my profile 👋
 <img src='https://i.ibb.co/2S3tSfc/github-Banner.png'>
 
-# My projects 🔮
-* [Desires](https://desiresbot.online/) — feature-packed, fast-growing discord bot that exploded in 2021 and won the hearts of many users of the Discord platform.
-
 # Languages and Tools
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
