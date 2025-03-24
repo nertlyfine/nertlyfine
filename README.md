@@ -1,6 +1,6 @@
+> ## Welcome to my profile 🌿
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+nertlyfine!&center=true&width=380&height=45"> </p>
 
-> ## Welcome to my profile 🍀
 > ## My projects 🧩
 * [Kaneki Ken](https://discord.gg/4XXnDN4qYU) — A simple economic bot for the Discord server
 
